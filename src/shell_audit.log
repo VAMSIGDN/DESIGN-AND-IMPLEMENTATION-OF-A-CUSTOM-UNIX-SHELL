@@ -1,0 +1,8 @@
+[Thu Feb  5 12:34:43 2026] [AUDIT] User 1000 executed: watch ls 
+[Thu Feb  5 12:35:12 2026] [AUDIT] User 1000 executed: touch a.c 
+[Thu Feb  5 12:35:46 2026] [AUDIT] User 1000 executed: watch -m free -m 
+[Thu Feb  5 12:38:25 2026] [AUDIT] User 1000 executed: alias r="ls -ah" 
+[Thu Feb  5 12:38:32 2026] [AUDIT] User 1000 executed: alias 
+[Thu Feb  5 12:38:39 2026] [AUDIT] User 1000 executed: ls -ah 
+[Thu Feb  5 12:39:15 2026] [AUDIT] User 1000 executed: exit 
+[Thu Feb  5 12:44:11 2026] [AUDIT] User 1000 executed: watch --secure 
